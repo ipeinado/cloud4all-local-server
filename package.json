@@ -1,0 +1,9 @@
+{
+  "name": "cloud4all-local-server",
+  "version": "0.0.1",
+  "description": "Local server that communicates with cloud4chrome, the chrome extension that implements the auto-configuration capabilities provided by Cloud4all",
+  "dependencies": {
+    "express": "^4.4.1",
+    "socket.io": "^1.0.4"
+  }
+}
